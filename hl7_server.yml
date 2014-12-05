@@ -1,0 +1,11 @@
+listen:
+  host: localhost
+  port: 2575
+log:
+  file: hl7_server.log
+  level: debug
+database: dbname=hl7 host=localhost port=5432 user=Christian
+#ssl:
+  #private_key_file: server.key
+  #cert_chain_file: server.crt
+  #verify_peer: true
