@@ -1,7 +1,9 @@
 em-hl7-server
 =============
 
-An HL7 server written in Ruby, which is a proof-of-concept at this point. Uses EventMachine. Writes HL7 messages to database.
+An HL7 server written in Ruby. Uses EventMachine. Writes HL7 messages to database.
+
+Proof-of-concept at this point in time.
 
 TODO:
 
